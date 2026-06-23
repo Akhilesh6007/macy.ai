@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Next.js-Framework-black?style=for-the-badge&logo=next.js" />
   <img src="https://img.shields.io/badge/OpenAI-Integrated-green?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
 </p>
 
 ---
@@ -37,7 +36,6 @@ Access leading AI models from one dashboard:
 * Gemini
 * DeepSeek
 * Grok
-* Mistral
 * Perplexity
 
 ### 💬 Smart Chat
